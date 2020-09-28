@@ -1,4 +1,4 @@
-//����׳˵������ӷֽ�ʽ
+//计算阶乘的素因子分解式
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
